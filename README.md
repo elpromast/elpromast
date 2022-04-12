@@ -7,7 +7,7 @@ Software Engineering and Web Development
 </h3>
   <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
-- 🔭 My Portfolio 
+-  My Portfolio (in development)
 
 <h3 align="left">Connect with me </h3>
 <p align="left">
