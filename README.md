@@ -7,3 +7,5 @@ Software Engineering and Web Development
 </h3>
  
 - 🔭 My Portfolio [https://luijait.github.io](https://luijait.github.io)
+
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
