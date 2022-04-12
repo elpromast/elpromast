@@ -17,3 +17,5 @@ Software Engineering and Web Development
 </p>
 
 <h3 align="left"> Programming Languages</h3>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23CDCDCD&size=25&lines=MrTechX+%7C+UlisesCamacho;Pentester+%7C+Hacker)](https://git.io/typing-svg) <br>
